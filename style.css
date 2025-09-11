@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(34, 57, 55);
+}
+
+P {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

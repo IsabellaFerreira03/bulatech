@@ -50,11 +50,10 @@ input[type="password"]::placeholder {
     position: absolute;
     color: white;
     left: 13px;
-    top: 47%;
+    top: 50%;
     display: flex;
     transform: translateY(-50%);
     pointer-events: none;
-    padding-top: 1%;
 }
 
 button {

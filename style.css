@@ -49,8 +49,8 @@ input[type="password"]::placeholder {
 .senha i {
     position: absolute;
     color: white;
-    left: 10px;
-    top: 50%;
+    left: 13px;
+    top: 40%;
     display: flex;
     transform: translateY(-50%);
     pointer-events: none;

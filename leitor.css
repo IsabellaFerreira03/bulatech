@@ -3,7 +3,7 @@ body {
     text-align: center;
     margin: 0;
     padding: 0;
-    background-color: #f2f2f2;
+    background-color: #085f6e;
     } 
 
     h1 {
@@ -23,8 +23,10 @@ body {
     font-size: 18px;
     color: #006400;
     }
-    
+
     button {
+    padding: 10px 60px;
+    width: 200px;
     border-radius: 5px;
     background: rgb(7, 217, 249);
     color: rgb(255, 255, 255);

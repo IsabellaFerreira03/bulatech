@@ -19,14 +19,14 @@ body {
     }
 
     #output {
-    margin-top: 20px;
+    margin-top: 40px;
     font-size: 18px;
-    color: #006400;
+    color: #ffffff;
     }
 
     button {
-    padding: 10px 60px;
-    width: 200px;
+    margin-top: 30px;
+    width: 100px;
     border-radius: 5px;
     background: rgb(7, 217, 249);
     color: rgb(255, 255, 255);

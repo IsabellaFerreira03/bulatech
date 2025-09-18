@@ -1,6 +1,9 @@
 function entrar() {
-    const chave = document.getElementById("senha").value;
-    if (chave === "") {
-        alert("Por favor, digite sua senha.");
+    const senhaDigitada = document.querySelector(".chave").value;
+
+    if (senhaDigitada === "Florence") {
+    window.location.href = "leitor.html"; // Redireciona para a segunda tela
+    } else {
+    alert(" Senha incorreta. Tente novamente.");
     }
 }

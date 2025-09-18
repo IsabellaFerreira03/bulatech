@@ -72,3 +72,9 @@ button {
     align-items: center;
     transform: translateY(150px);
 }
+
+#mensagem {
+    font-size: 18px;
+    margin-top: 10px;
+    transition: all 0.3s ease;
+}
